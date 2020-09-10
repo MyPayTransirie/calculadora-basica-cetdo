@@ -25,7 +25,7 @@ Abaixo segue alguns passos sugeridos para criar a aplicação:
 
 | Passo | Completou? |
 | ----- | ---------- |
-|   1. Projeto            | **sim/não** |
+|   1. Projeto            | **sim** |
 |   2. Layout             |            |
 |   3. Button Listeners   |            |
 |   4. Avaliar Expressão  |            |
