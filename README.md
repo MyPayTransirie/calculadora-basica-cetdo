@@ -27,7 +27,7 @@ Abaixo segue alguns passos sugeridos para criar a aplicação:
 | ----- | ---------- |
 |   1. Projeto            | **sim** |
 |   2. Layout             |    **não**     |
-|   3. Button Listeners   |        **não*    |
+|   3. Button Listeners   |        **não**    |
 |   4. Avaliar Expressão  |      **não**      |
 |   5. Alertar inválido   |      **não**      |
 
