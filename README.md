@@ -25,11 +25,11 @@ Abaixo segue alguns passos sugeridos para criar a aplicação:
 
 | Passo | Completou? |
 | ----- | ---------- |
-|   1. Projeto            | **sim/não** |
-|   2. Layout             |            |
-|   3. Button Listeners   |            |
-|   4. Avaliar Expressão  |            |
-|   5. Alertar inválido   |            |
+|   1. Projeto            | **sim** |
+|   2. Layout             |    **não**     |
+|   3. Button Listeners   |        **não*    |
+|   4. Avaliar Expressão  |      **não**      |
+|   5. Alertar inválido   |      **não**      |
 
 ----------
 ## Dificuldades
